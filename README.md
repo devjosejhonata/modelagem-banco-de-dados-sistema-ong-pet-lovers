@@ -38,3 +38,6 @@ Caso tenha interesse em conversar sobre o projeto, tecnologia ou iniciativas soc
 🐶 Sobre o Propósito: 
 
 Mais do que um sistema, o Pet Lovers é um reflexo do que acredito: a tecnologia pode e deve ser usada para gerar impacto positivo. Cada decisão de modelagem foi feita com empatia, clareza e responsabilidade, pensando nas vidas que podem ser transformadas com um clique.
+![img modelo fisico](https://github.com/user-attachments/assets/4649a3ea-ca8b-443a-a4d7-6da463464a2d)
+
+
