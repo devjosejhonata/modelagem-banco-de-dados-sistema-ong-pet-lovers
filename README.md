@@ -17,13 +17,15 @@ A modelagem foi desenvolvida em três etapas principais:
 🛠 Tecnologias Utilizadas:
 
 - 📌 Visual Paradigm – Modelagem UML e de banco de dados.
-- 📌 SQL Server – Banco de dados relacional que será utilizado após a modelagem dos dados.
+- 📌 SQL Server – Banco de dados relacional utilizado.
 
 🚧 Próximas Etapas:
 
-- Criação do banco no SQL Server a partir do modelo físico.
-- Desenvolvimento do back-end.
-- Desenvolvimento do front-end.
+- Criação do banco no SQL Server a partir do modelo físico (FEITO)
+"Repositório atualizado com a informação que o banco no SQL Server já foi criado"
+
+- Desenvolvimento do back-end ("Será atualizado em outro repositório").
+- Desenvolvimento do front-end ("Será atualizado em outro repositório").
 
 🤝 Contribuições: 
 
@@ -39,5 +41,7 @@ Caso tenha interesse em conversar sobre o projeto, tecnologia ou iniciativas soc
 
 Mais do que um sistema, o Pet Lovers é um reflexo do que acredito: a tecnologia pode e deve ser usada para gerar impacto positivo. Cada decisão de modelagem foi feita com empatia, clareza e responsabilidade, pensando nas vidas que podem ser transformadas com um clique.
 ![img modelo fisico](https://github.com/user-attachments/assets/4649a3ea-ca8b-443a-a4d7-6da463464a2d)
+![img 01 banco pet lovers](https://github.com/user-attachments/assets/b3f680a8-da93-4b5b-8b2e-71fe77b96380)
+
 
 
