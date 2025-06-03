@@ -16,12 +16,13 @@ A modelagem foi desenvolvida em três etapas principais:
 
 🛠 Tecnologias Utilizadas:
 
-- 📌 Visual Paradigm – Modelagem UML e de banco de dados.
+- 📌 Visual Paradigm – Modelagem de banco de dados (Modelo conceitual e físico).
 - 📌 SQL Server – Banco de dados relacional utilizado.
 
 🚧 Próximas Etapas:
 
-- Criação do banco no SQL Server a partir do modelo físico (FEITO)
+- Criação do banco no SQL Server a partir do modelo físico (FEITO).
+  
 "Repositório atualizado com a informação que o banco no SQL Server já foi criado"
 
 - Desenvolvimento do back-end ("Será atualizado em outro repositório").
